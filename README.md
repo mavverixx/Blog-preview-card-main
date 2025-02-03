@@ -1,5 +1,3 @@
-Below is a complete README in Markdown format for the Blog preview card solution. You can copy and paste it directly into your README.md file in Visual Studio Code.
-
 # Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -30,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/assets/images/Screenshot%202025-02-02%20at%2009.14.09.png)
 
 ### Links
 
