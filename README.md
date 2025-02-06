@@ -104,7 +104,5 @@ Author
 
 https://github.com/mavverixx
 
-Acknowledgments
-A big thanks to the Frontend Mentor community for the inspiring challenges and valuable feedback that helped me improve this project.
 
 
