@@ -7,7 +7,7 @@ body {
     justify-content: center; 
     align-items: center; 
     position: relative; 
-    margin: 100px  200px 100px 100px;   
+    margin: 200px  0px 0px 0px;   
 }
 
 /* Grouping hover and focus to apply identical styles */
@@ -41,7 +41,7 @@ body {
     width: 310px;
     height: 418px;
     margin-top: 40px;
-    margin-left: 40px;
+    
 }
 
 #container-learning {
