@@ -1,5 +1,6 @@
 # Blog preview card solution
-![Uploading 67adf88660d1f903711676.gif…]()
+
+![Screen Recording 2025-02-12 at 18-40-56](https://github.com/user-attachments/assets/1f69c8c0-2990-42b9-970d-597a2b0ebc03)
 
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
